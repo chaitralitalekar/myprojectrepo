@@ -23,4 +23,9 @@ public class Calculator {
 	public static void sqr(int num1){
 		System.out.println(num1*num1);
 	}
+	
+	public static void b1func1(int num1, int num2){
+		System.out.println(num1-num2);
+	}
+	
 }
